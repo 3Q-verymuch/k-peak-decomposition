@@ -1,1 +1,1 @@
-# k-peak-decomposition
+# k-peak decomposition
